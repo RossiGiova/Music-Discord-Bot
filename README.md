@@ -14,6 +14,8 @@ Second on `token.txt` where you add your discord bot token
 
 and then you have to create a database with django.
 
+finally check you have installed the program ffmpeg from www.ffmpeg.org and change the executable path from `music_bot.py`
+
 Now you can run the from the file `music_bot.py`
 
 # Bot commands
